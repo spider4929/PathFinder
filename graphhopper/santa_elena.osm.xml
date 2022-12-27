@@ -1,0 +1,1348 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='139356' user='' visible='true' lat='14.6305837' lon='121.0958637' />
+  <node id='139357' user='' visible='true' lat='14.6305437' lon='121.0957831' />
+  <node id='139358' user='' visible='true' lat='14.6356842' lon='121.0944718' />
+  <node id='139359' user='' visible='true' lat='14.6357009' lon='121.0943393' />
+  <node id='139360' user='' visible='true' lat='14.6347572' lon='121.0946787' />
+  <node id='139361' user='' visible='true' lat='14.6346953' lon='121.0945932' />
+  <node id='139362' user='' visible='true' lat='14.6341059' lon='121.0949988' />
+  <node id='139363' user='' visible='true' lat='14.6324252' lon='121.0952553' />
+  <node id='139364' user='' visible='true' lat='14.6324102' lon='121.0951724' />
+  <node id='139365' user='' visible='true' lat='14.6309038' lon='121.0956998' />
+  <node id='139366' user='' visible='true' lat='14.6299778' lon='121.0962103' />
+  <node id='139367' user='' visible='true' lat='14.6299203' lon='121.0961065' />
+  <node id='139368' user='' visible='true' lat='14.6297529' lon='121.1012054' />
+  <node id='139369' user='' visible='true' lat='14.6296796' lon='121.1006107' />
+  <node id='139370' user='' visible='true' lat='14.6296064' lon='121.1000163' />
+  <node id='139371' user='' visible='true' lat='14.6298511' lon='121.1017423' />
+  <node id='139372' user='' visible='true' lat='14.6298174' lon='121.1017289' />
+  <node id='139373' user='' visible='true' lat='14.6293918' lon='121.0982742' />
+  <node id='139374' user='' visible='true' lat='14.6338183' lon='121.1016793' />
+  <node id='139375' user='' visible='true' lat='14.6341858' lon='121.0948977' />
+  <node id='139376' user='' visible='true' lat='14.6342669' lon='121.0945768' />
+  <node id='139377' user='' visible='true' lat='14.6343305' lon='121.0943596' />
+  <node id='139378' user='' visible='true' lat='14.6343525' lon='121.0941919' />
+  <node id='139379' user='' visible='true' lat='14.6343344' lon='121.0940283' />
+  <node id='139380' user='' visible='true' lat='14.6342887' lon='121.0937895' />
+  <node id='139381' user='' visible='true' lat='14.6341513' lon='121.094997' />
+  <node id='139382' user='' visible='true' lat='14.6338763' lon='121.0949244' />
+  <node id='139383' user='' visible='true' lat='14.635837' lon='121.0943046' />
+  <node id='139384' user='' visible='true' lat='14.6358175' lon='121.0943448' />
+  <node id='139385' user='' visible='true' lat='14.6355632' lon='121.0943327' />
+  <node id='139386' user='' visible='true' lat='14.6353115' lon='121.0943166' />
+  <node id='139387' user='' visible='true' lat='14.6350727' lon='121.0943515' />
+  <node id='139388' user='' visible='true' lat='14.6349235' lon='121.0944199' />
+  <node id='139389' user='' visible='true' lat='14.6347185' lon='121.0945714' />
+  <node id='139390' user='' visible='true' lat='14.6345329' lon='121.0947458' />
+  <node id='139391' user='' visible='true' lat='14.6343253' lon='121.0948759' />
+  <node id='139392' user='' visible='true' lat='14.6341021' lon='121.0949107' />
+  <node id='139393' user='' visible='true' lat='14.6337479' lon='121.0949322' />
+  <node id='139394' user='' visible='true' lat='14.6335221' lon='121.094955' />
+  <node id='139395' user='' visible='true' lat='14.6329635' lon='121.09508' />
+  <node id='139396' user='' visible='true' lat='14.6322796' lon='121.0951942' />
+  <node id='139397' user='' visible='true' lat='14.6318669' lon='121.0952757' />
+  <node id='139398' user='' visible='true' lat='14.6312337' lon='121.0954718' />
+  <node id='139399' user='' visible='true' lat='14.6308801' lon='121.0956135' />
+  <node id='139400' user='' visible='true' lat='14.6303731' lon='121.0958691' />
+  <node id='139401' user='' visible='true' lat='14.6298888' lon='121.0961231' />
+  <node id='139402' user='' visible='true' lat='14.6309363' lon='121.0980687' />
+  <node id='139403' user='' visible='true' lat='14.6309152' lon='121.0979237' />
+  <node id='139404' user='' visible='true' lat='14.6305568' lon='121.0981139' />
+  <node id='139405' user='' visible='true' lat='14.6302962' lon='121.0972819' />
+  <node id='139406' user='' visible='true' lat='14.6327452' lon='121.1013871' />
+  <node id='139407' user='' visible='true' lat='14.6328566' lon='121.1013832' />
+  <node id='139408' user='' visible='true' lat='14.6325587' lon='121.099808' />
+  <node id='139409' user='' visible='true' lat='14.6326608' lon='121.0997968' />
+  <node id='139410' user='' visible='true' lat='14.6325243' lon='121.0995364' />
+  <node id='139411' user='' visible='true' lat='14.6326143' lon='121.0993432' />
+  <node id='139412' user='' visible='true' lat='14.6325012' lon='121.0993538' />
+  <node id='139413' user='' visible='true' lat='14.6324024' lon='121.0985721' />
+  <node id='139414' user='' visible='true' lat='14.6325147' lon='121.0985587' />
+  <node id='139415' user='' visible='true' lat='14.6323211' lon='121.0979298' />
+  <node id='139416' user='' visible='true' lat='14.6324299' lon='121.097919' />
+  <node id='139417' user='' visible='true' lat='14.632689' lon='121.1008385' />
+  <node id='139418' user='' visible='true' lat='14.6326163' lon='121.1002639' />
+  <node id='139419' user='' visible='true' lat='14.6325447' lon='121.0996977' />
+  <node id='139420' user='' visible='true' lat='14.6317015' lon='121.0978049' />
+  <node id='139421' user='' visible='true' lat='14.631728' lon='121.0979744' />
+  <node id='139422' user='' visible='true' lat='14.6299368' lon='121.0962358' />
+  <node id='139423' user='' visible='true' lat='14.6302716' lon='121.0960279' />
+  <node id='139424' user='' visible='true' lat='14.6308477' lon='121.0957248' />
+  <node id='139425' user='' visible='true' lat='14.6309502' lon='121.0956792' />
+  <node id='139426' user='' visible='true' lat='14.6311747' lon='121.095592' />
+  <node id='139427' user='' visible='true' lat='14.6318793' lon='121.0953453' />
+  <node id='139428' user='' visible='true' lat='14.6300899' lon='121.1017142' />
+  <node id='139429' user='' visible='true' lat='14.6327383' lon='121.1014044' />
+  <node id='139430' user='' visible='true' lat='14.6327552' lon='121.1013621' />
+  <node id='139431' user='' visible='true' lat='14.6323179' lon='121.0979041' />
+  <node id='139432' user='' visible='true' lat='14.6356392' lon='121.0968678' />
+  <node id='139433' user='' visible='true' lat='14.6353496' lon='121.0973186' />
+  <node id='139434' user='' visible='true' lat='14.635682' lon='121.0962182' />
+  <node id='139435' user='' visible='true' lat='14.6357171' lon='121.0956858' />
+  <node id='139436' user='' visible='true' lat='14.6357691' lon='121.0948951' />
+  <node id='139437' user='' visible='true' lat='14.6352725' lon='121.0949322' />
+  <node id='139438' user='' visible='true' lat='14.6348729' lon='121.0949858' />
+  <node id='139439' user='' visible='true' lat='14.633635' lon='121.0950341' />
+  <node id='139440' user='' visible='true' lat='14.6339983' lon='121.0950033' />
+  <node id='139441' user='' visible='true' lat='14.6341929' lon='121.0949952' />
+  <node id='139442' user='' visible='true' lat='14.6343733' lon='121.094951' />
+  <node id='139443' user='' visible='true' lat='14.6345005' lon='121.0948812' />
+  <node id='139444' user='' visible='true' lat='14.6346419' lon='121.0947807' />
+  <node id='139445' user='' visible='true' lat='14.6348132' lon='121.0946291' />
+  <node id='139446' user='' visible='true' lat='14.6350013' lon='121.0944816' />
+  <node id='139447' user='' visible='true' lat='14.6351363' lon='121.0944347' />
+  <node id='139448' user='' visible='true' lat='14.6353257' lon='121.0944199' />
+  <node id='139449' user='' visible='true' lat='14.6354931' lon='121.094432' />
+  <node id='139450' user='' visible='true' lat='14.6357955' lon='121.094495' />
+  <node id='139451' user='' visible='true' lat='14.6337699' lon='121.1016686' />
+  <node id='139452' user='' visible='true' lat='14.6331302' lon='121.1014419' />
+  <node id='139453' user='' visible='true' lat='14.6328707' lon='121.1014004' />
+  <node id='139454' user='' visible='true' lat='14.6328343' lon='121.1013561' />
+  <node id='139455' user='' visible='true' lat='14.6331347' lon='121.0996497' />
+  <node id='139456' user='' visible='true' lat='14.6336794' lon='121.0996136' />
+  <node id='139457' user='' visible='true' lat='14.6337852' lon='121.0996354' />
+  <node id='139458' user='' visible='true' lat='14.632689' lon='121.0997092' />
+  <node id='139459' user='' visible='true' lat='14.632654' lon='121.099736' />
+  <node id='139460' user='' visible='true' lat='14.632778' lon='121.1008442' />
+  <node id='139461' user='' visible='true' lat='14.6336495' lon='121.0994156' />
+  <node id='139462' user='' visible='true' lat='14.6336635' lon='121.0995791' />
+  <node id='139463' user='' visible='true' lat='14.6332621' lon='121.1008827' />
+  <node id='139464' user='' visible='true' lat='14.6336921' lon='121.0995751' />
+  <node id='139465' user='' visible='true' lat='14.6333901' lon='121.1009033' />
+  <node id='139466' user='' visible='true' lat='14.6342603' lon='121.099503' />
+  <node id='139467' user='' visible='true' lat='14.6339082' lon='121.0995364' />
+  <node id='139468' user='' visible='true' lat='14.6338992' lon='121.0994107' />
+  <node id='139469' user='' visible='true' lat='14.633404' lon='121.1008612' />
+  <node id='139470' user='' visible='true' lat='14.6337998' lon='121.0995885' />
+  <node id='139471' user='' visible='true' lat='14.6338607' lon='121.0995416' />
+  <node id='139472' user='' visible='true' lat='14.6341942' lon='121.0995054' />
+  <node id='139473' user='' visible='true' lat='14.6331162' lon='121.0994876' />
+  <node id='139474' user='' visible='true' lat='14.6350786' lon='121.0975364' />
+  <node id='139475' user='' visible='true' lat='14.6350569' lon='121.0973567' />
+  <node id='139476' user='' visible='true' lat='14.6344296' lon='121.0976039' />
+  <node id='139477' user='' visible='true' lat='14.6344046' lon='121.0974427' />
+  <node id='139478' user='' visible='true' lat='14.6336916' lon='121.0976808' />
+  <node id='139479' user='' visible='true' lat='14.6336803' lon='121.0975495' />
+  <node id='139480' user='' visible='true' lat='14.6331167' lon='121.0977635' />
+  <node id='139481' user='' visible='true' lat='14.6331081' lon='121.0976191' />
+  <node id='139482' user='' visible='true' lat='14.6326391' lon='121.0978627' />
+  <node id='139483' user='' visible='true' lat='14.6326178' lon='121.0976666' />
+  <node id='139484' user='' visible='true' lat='14.6324483' lon='121.0952854' />
+  <node id='139485' user='' visible='true' lat='14.6326082' lon='121.0952573' />
+  <node id='139486' user='' visible='true' lat='14.6325932' lon='121.0963346' />
+  <node id='139487' user='' visible='true' lat='14.6327137' lon='121.096314' />
+  <node id='139488' user='' visible='true' lat='14.6325388' lon='121.0959411' />
+  <node id='139489' user='' visible='true' lat='14.6326536' lon='121.0959166' />
+  <node id='139490' user='' visible='true' lat='14.632627' lon='121.0965794' />
+  <node id='139491' user='' visible='true' lat='14.6327506' lon='121.0965573' />
+  <node id='139492' user='' visible='true' lat='14.6325727' lon='121.0961863' />
+  <node id='139493' user='' visible='true' lat='14.6326925' lon='121.0961736' />
+  <node id='139494' user='' visible='true' lat='14.6324862' lon='121.0955599' />
+  <node id='139495' user='' visible='true' lat='14.6325968' lon='121.0955417' />
+  <node id='139496' user='' visible='true' lat='14.6326877' lon='121.0961417' />
+  <node id='139497' user='' visible='true' lat='14.6326581' lon='121.0959465' />
+  <node id='139498' user='' visible='true' lat='14.6326021' lon='121.0952205' />
+  <node id='139499' user='' visible='true' lat='14.6326397' lon='121.0954458' />
+  <node id='139500' user='' visible='true' lat='14.6325896' lon='121.0954938' />
+  <node id='139501' user='' visible='true' lat='14.6326469' lon='121.096724' />
+  <node id='139502' user='' visible='true' lat='14.6327719' lon='121.0967065' />
+  <node id='139503' user='' visible='true' lat='14.632638' lon='121.0966593' />
+  <node id='139504' user='' visible='true' lat='14.6325543' lon='121.0960532' />
+  <node id='139505' user='' visible='true' lat='14.6324803' lon='121.0955177' />
+  <node id='139506' user='' visible='true' lat='14.6324438' lon='121.0952527' />
+  <node id='139507' user='' visible='true' lat='14.6326022' lon='121.0992474' />
+  <node id='139508' user='' visible='true' lat='14.6327428' lon='121.099538' />
+  <node id='139509' user='' visible='true' lat='14.6328531' lon='121.0995231' />
+  <node id='139510' user='' visible='true' lat='14.6330983' lon='121.09949' />
+  <node id='139511' user='' visible='true' lat='14.6331513' lon='121.0994829' />
+  <node id='139512' user='' visible='true' lat='14.6334048' lon='121.0994486' />
+  <node id='139513' user='' visible='true' lat='14.6338557' lon='121.0993641' />
+  <node id='139514' user='' visible='true' lat='14.6348845' lon='121.1018362' />
+  <node id='139515' user='' visible='true' lat='14.6348119' lon='121.1018684' />
+  <node id='139516' user='' visible='true' lat='14.6339036' lon='121.1016981' />
+  <node id='139517' user='' visible='true' lat='14.6343058' lon='121.0995013' />
+  <node id='139518' user='' visible='true' lat='14.6353556' lon='121.099378' />
+  <node id='139519' user='' visible='true' lat='14.633549' lon='121.0977366' />
+  <node id='139520' user='' visible='true' lat='14.6336515' lon='121.0977256' />
+  <node id='139521' user='' visible='true' lat='14.6336372' lon='121.0985447' />
+  <node id='139522' user='' visible='true' lat='14.6326371' lon='121.0995241' />
+  <node id='139523' user='' visible='true' lat='14.6326566' lon='121.0995496' />
+  <node id='139524' user='' visible='true' lat='14.6336998' lon='121.0994088' />
+  <node id='139525' user='' visible='true' lat='14.6337284' lon='121.0993793' />
+  <node id='139526' user='' visible='true' lat='14.6356372' lon='121.0968996' />
+  <node id='139527' user='' visible='true' lat='14.6356047' lon='121.0972496' />
+  <node id='139528' user='' visible='true' lat='14.6355606' lon='121.0972912' />
+  <node id='139529' user='' visible='true' lat='14.6338439' lon='121.0993243' />
+  <node id='139530' user='' visible='true' lat='14.6338646' lon='121.0993941' />
+  <node id='139531' user='' visible='true' lat='14.6339204' lon='121.0994209' />
+  <node id='139532' user='' visible='true' lat='14.6353841' lon='121.0992385' />
+  <node id='139533' user='' visible='true' lat='14.6355606' lon='121.0975004' />
+  <node id='139534' user='' visible='true' lat='14.6355009' lon='121.0974924' />
+  <node id='139535' user='' visible='true' lat='14.6336466' lon='121.0976855' />
+  <node id='139536' user='' visible='true' lat='14.6344775' lon='121.097432' />
+  <node id='139537' user='' visible='true' lat='14.6326878' lon='121.0970179' />
+  <node id='139538' user='' visible='true' lat='14.6328113' lon='121.0970013' />
+  <node id='139539' user='' visible='true' lat='14.6328966' lon='121.0975956' />
+  <node id='139540' user='' visible='true' lat='14.6327617' lon='121.097605' />
+  <node id='139541' user='' visible='true' lat='14.6327624' lon='121.0966351' />
+  <node id='139542' user='' visible='true' lat='14.6303865' lon='121.0975448' />
+  <node id='139543' user='' visible='true' lat='14.6304999' lon='121.0979202' />
+  <node id='139544' user='' visible='true' lat='14.6305298' lon='121.0979644' />
+  <node id='139545' user='' visible='true' lat='14.6305739' lon='121.0979752' />
+  <node id='139546' user='' visible='true' lat='14.632715' lon='121.097652' />
+  <node id='139547' user='' visible='true' lat='14.6327617' lon='121.0976225' />
+  <node id='139548' user='' visible='true' lat='14.6327617' lon='121.0975594' />
+  <node id='139549' user='' visible='true' lat='14.6327383' lon='121.0973703' />
+  <node id='139550' user='' visible='true' lat='14.6326798' lon='121.0969622' />
+  <node id='139551' user='' visible='true' lat='14.6324256' lon='121.0978867' />
+  <node id='139552' user='' visible='true' lat='14.6326902' lon='121.097857' />
+  <node id='139553' user='' visible='true' lat='14.6327305' lon='121.0978692' />
+  <node id='139554' user='' visible='true' lat='14.6330416' lon='121.0978272' />
+  <node id='139555' user='' visible='true' lat='14.6330653' lon='121.0977928' />
+  <node id='139556' user='' visible='true' lat='14.6330991' lon='121.097766' />
+  <node id='139557' user='' visible='true' lat='14.6335454' lon='121.0977043' />
+  <node id='139558' user='' visible='true' lat='14.6328436' lon='121.0972432' />
+  <node id='139559' user='' visible='true' lat='14.6328875' lon='121.0975863' />
+  <node id='139560' user='' visible='true' lat='14.6329252' lon='121.0976251' />
+  <node id='139561' user='' visible='true' lat='14.6329732' lon='121.0976345' />
+  <node id='139562' user='' visible='true' lat='14.6335586' lon='121.0975675' />
+  <node id='26546417' timestamp='2020-11-18T01:19:20Z' uid='12191637' user='Jarod Shaffer' visible='true' version='5' changeset='94317074' lat='14.6312343' lon='121.0951663' />
+  <node id='26546486' timestamp='2010-04-02T04:23:16Z' uid='11126' user='seav' visible='true' version='5' changeset='4300156' lat='14.6313493' lon='121.094136' />
+  <node id='26546492' timestamp='2012-10-30T06:47:15Z' uid='1417' user='maning' visible='true' version='5' changeset='13682771' lat='14.6337845' lon='121.0938818' />
+  <node id='26831976' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='6' changeset='103418704' lat='14.6331344' lon='121.0986045' />
+  <node id='30759955' timestamp='2012-10-01T02:02:42Z' uid='1417' user='maning' visible='true' version='4' changeset='13317123' lat='14.6309568' lon='121.0958822' />
+  <node id='30760130' timestamp='2012-10-01T02:02:42Z' uid='1417' user='maning' visible='true' version='5' changeset='13317123' lat='14.631152' lon='121.0970186' />
+  <node id='32210000' timestamp='2019-11-08T04:14:46Z' uid='1417' user='maning' visible='true' version='3' changeset='76785548' lat='14.6311037' lon='121.0964022' />
+  <node id='32210235' timestamp='2018-04-29T03:42:16Z' uid='1041828' user='GOwin' visible='true' version='6' changeset='58517628' lat='14.6335145' lon='121.0971436' />
+  <node id='32210236' timestamp='2021-01-29T02:30:30Z' uid='615320' user='Dewi Sulistioningrum' visible='true' version='4' changeset='98328089' lat='14.6344131' lon='121.0969716' />
+  <node id='32210237' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='6' changeset='94042435' lat='14.6352892' lon='121.0968873' />
+  <node id='32210251' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='6' changeset='94042435' lat='14.6342049' lon='121.0947579' />
+  <node id='32614446' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='4' changeset='94042435' lat='14.6337931' lon='121.0946655' />
+  <node id='32614447' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='4' changeset='94042435' lat='14.6333567' lon='121.094697' />
+  <node id='32614448' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='5' changeset='94042435' lat='14.6326142' lon='121.0949431' />
+  <node id='32614449' timestamp='2021-01-11T04:27:38Z' uid='10811142' user='HamakuaCoast' visible='true' version='5' changeset='97275028' lat='14.6319217' lon='121.0950162' />
+  <node id='32614451' timestamp='2022-06-27T16:56:43Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='5' changeset='122919320' lat='14.630151' lon='121.0952221' />
+  <node id='32614452' timestamp='2008-12-14T14:24:29Z' uid='1417' user='maning' visible='true' version='3' changeset='375259' lat='14.6298657' lon='121.0943982' />
+  <node id='32614464' timestamp='2020-04-29T04:30:04Z' uid='1041828' user='GOwin' visible='true' version='5' changeset='84304677' lat='14.6332008' lon='121.0953623' />
+  <node id='32614465' timestamp='2020-04-29T04:30:04Z' uid='1041828' user='GOwin' visible='true' version='8' changeset='84304677' lat='14.6333365' lon='121.0960304' />
+  <node id='32614471' timestamp='2012-10-30T06:47:16Z' uid='1417' user='maning' visible='true' version='3' changeset='13682771' lat='14.6341595' lon='121.0951718' />
+  <node id='32614476' timestamp='2010-04-02T05:05:32Z' uid='11126' user='seav' visible='true' version='3' changeset='4300314' lat='14.6342782' lon='121.0964006' />
+  <node id='32614477' timestamp='2010-04-02T05:05:32Z' uid='11126' user='seav' visible='true' version='3' changeset='4300314' lat='14.634204' lon='121.095911' />
+  <node id='32614481' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='4' changeset='94042435' lat='14.6351593' lon='121.0957793' />
+  <node id='32614482' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='5' changeset='94042435' lat='14.6352141' lon='121.0962847' />
+  <node id='32614491' timestamp='2013-04-30T06:37:13Z' uid='1417' user='maning' visible='true' version='5' changeset='15916852' lat='14.6333236' lon='121.1008885' />
+  <node id='32614497' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='7' changeset='103418704' lat='14.6327873' lon='121.0986379' />
+  <node id='32621960' timestamp='2022-06-21T14:55:34Z' uid='7674729' user='UncoolGuyJake' visible='true' version='6' changeset='122672756' lat='14.6339502' lon='121.1010279' />
+  <node id='33218511' timestamp='2019-10-07T11:17:46Z' uid='1417' user='maning' visible='true' version='5' changeset='75370867' lat='14.6312286' lon='121.0973069' />
+  <node id='33450209' timestamp='2008-01-17T00:59:03Z' uid='5541' user='user_5541' visible='true' version='2' changeset='651628' lat='14.6328021' lon='121.0941141' />
+  <node id='33450210' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='6' changeset='97094328' lat='14.6329279' lon='121.0948291' />
+  <node id='33472284' timestamp='2022-05-19T08:08:53Z' uid='1041828' user='GOwin' visible='true' version='5' changeset='121181085' lat='14.6310636' lon='121.0962257' />
+  <node id='47320124' timestamp='2022-06-27T16:56:43Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='7' changeset='122919320' lat='14.6302771' lon='121.0955749' />
+  <node id='174743416' timestamp='2008-01-16T15:16:36Z' uid='5541' user='user_5541' visible='true' version='2' changeset='647992' lat='14.6318712' lon='121.0968335' />
+  <node id='174743864' timestamp='2019-03-22T04:32:17Z' uid='7627616' user='_Angel_' visible='true' version='4' changeset='68396558' lat='14.6311729' lon='121.0951834' />
+  <node id='174744818' timestamp='2013-03-19T07:24:19Z' uid='1417' user='maning' visible='true' version='4' changeset='15416455' lat='14.6310853' lon='121.0948758' />
+  <node id='174744819' timestamp='2009-01-11T05:13:15Z' uid='1417' user='maning' visible='true' version='4' changeset='769889' lat='14.63088' lon='121.0945909' />
+  <node id='260895327' timestamp='2010-01-13T03:51:43Z' uid='1417' user='maning' visible='true' version='3' changeset='3607652' lat='14.6315801' lon='121.0969016' />
+  <node id='260895330' timestamp='2010-11-26T04:42:56Z' uid='1417' user='maning' visible='true' version='4' changeset='6459293' lat='14.6337504' lon='121.0959805' />
+  <node id='268443436' timestamp='2008-06-04T15:30:48Z' uid='1417' user='maning' visible='true' version='1' changeset='46599' lat='14.6310699' lon='121.096266' />
+  <node id='268443438' timestamp='2014-03-31T01:52:19Z' uid='1417' user='maning' visible='true' version='4' changeset='21411458' lat='14.6309414' lon='121.0958282' />
+  <node id='269143961' timestamp='2013-03-19T07:24:19Z' uid='1417' user='maning' visible='true' version='5' changeset='15416455' lat='14.6343029' lon='121.093787' />
+  <node id='272592071' timestamp='2013-01-02T02:55:07Z' uid='1417' user='maning' visible='true' version='2' changeset='14494638' lat='14.6312111' lon='121.0953641' />
+  <node id='272592651' timestamp='2021-01-29T01:58:56Z' uid='615320' user='Dewi Sulistioningrum' visible='true' version='3' changeset='98327302' lat='14.6307681' lon='121.0953304' />
+  <node id='274452695' timestamp='2008-12-14T14:24:19Z' uid='1417' user='maning' visible='true' version='2' changeset='375259' lat='14.6300688' lon='121.0943525' />
+  <node id='274452701' timestamp='2008-12-14T14:24:28Z' uid='1417' user='maning' visible='true' version='2' changeset='375259' lat='14.6303954' lon='121.0943158' />
+  <node id='303915850' timestamp='2012-10-01T02:25:38Z' uid='1417' user='maning' visible='true' version='3' changeset='13317204' lat='14.6317719' lon='121.0940797' />
+  <node id='303915859' timestamp='2012-10-01T02:25:38Z' uid='1417' user='maning' visible='true' version='2' changeset='13317204' lat='14.6318279' lon='121.0944625' />
+  <node id='303915869' timestamp='2012-10-01T02:25:38Z' uid='1417' user='maning' visible='true' version='2' changeset='13317204' lat='14.6318894' lon='121.0947815' />
+  <node id='303915875' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='4' changeset='97094328' lat='14.6320844' lon='121.0950065' />
+  <node id='303915878' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='4' changeset='97094328' lat='14.632459' lon='121.0949698' />
+  <node id='303915879' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='2' changeset='97094328' lat='14.6324212' lon='121.0945135' />
+  <node id='303915880' timestamp='2008-10-12T09:46:12Z' uid='1417' user='maning' visible='true' version='1' changeset='280555' lat='14.6324207' lon='121.0942781' />
+  <node id='303915882' timestamp='2008-10-12T09:46:13Z' uid='1417' user='maning' visible='true' version='1' changeset='280555' lat='14.6324284' lon='121.0942534' />
+  <node id='303915883' timestamp='2008-10-12T09:46:15Z' uid='1417' user='maning' visible='true' version='1' changeset='280555' lat='14.6324361' lon='121.0940279' />
+  <node id='303915885' timestamp='2008-10-12T09:46:18Z' uid='1417' user='maning' visible='true' version='1' changeset='280555' lat='14.6324346' lon='121.0940078' />
+  <node id='303915887' timestamp='2012-10-30T06:47:15Z' uid='1417' user='maning' visible='true' version='3' changeset='13682771' lat='14.6327835' lon='121.094031' />
+  <node id='303915889' timestamp='2008-10-12T09:46:22Z' uid='1417' user='maning' visible='true' version='1' changeset='280555' lat='14.632396' lon='121.094397' />
+  <node id='303915890' timestamp='2012-10-01T02:02:42Z' uid='1417' user='maning' visible='true' version='2' changeset='13317123' lat='14.6328707' lon='121.094344' />
+  <node id='315202652' timestamp='2012-10-01T02:02:43Z' uid='1417' user='maning' visible='true' version='4' changeset='13317123' lat='14.631137' lon='121.0967611' />
+  <node id='315202654' timestamp='2013-03-19T07:24:19Z' uid='1417' user='maning' visible='true' version='4' changeset='15416455' lat='14.6328349' lon='121.0940413' />
+  <node id='317496172' timestamp='2012-10-30T06:47:15Z' uid='1417' user='maning' visible='true' version='3' changeset='13682771' lat='14.6345807' lon='121.0937474' />
+  <node id='318616692' timestamp='2008-12-14T14:20:45Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6320263' lon='121.0940227' />
+  <node id='318616702' timestamp='2008-12-14T14:20:46Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6322048' lon='121.0940106' />
+  <node id='318616711' timestamp='2008-12-14T14:20:47Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6318947' lon='121.0940507' />
+  <node id='318616719' timestamp='2008-12-14T14:20:48Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6307777' lon='121.09422' />
+  <node id='318616724' timestamp='2008-12-14T14:20:50Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6310446' lon='121.0941709' />
+  <node id='318616765' timestamp='2008-12-14T14:21:11Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6305248' lon='121.0942703' />
+  <node id='318616767' timestamp='2008-12-14T14:21:12Z' uid='1417' user='maning' visible='true' version='1' changeset='375259' lat='14.6302215' lon='121.0943344' />
+  <node id='331119835' timestamp='2009-01-11T05:11:53Z' uid='1417' user='maning' visible='true' version='1' changeset='769889' lat='14.6307359' lon='121.0943449' />
+  <node id='331119836' timestamp='2009-01-11T05:11:54Z' uid='1417' user='maning' visible='true' version='1' changeset='769889' lat='14.6307056' lon='121.0942438' />
+  <node id='390130908' timestamp='2012-10-01T02:02:43Z' uid='1417' user='maning' visible='true' version='3' changeset='13317123' lat='14.6318232' lon='121.0956664' />
+  <node id='671855683' timestamp='2012-10-30T06:47:16Z' uid='1417' user='maning' visible='true' version='2' changeset='13682771' lat='14.6336186' lon='121.0939147' />
+  <node id='671855714' timestamp='2021-05-14T10:11:42Z' uid='5653955' user='Timmy_Tesseract' visible='true' version='4' changeset='104678522' lat='14.6355504' lon='121.0935174' />
+  <node id='734864148' timestamp='2013-04-30T02:14:44Z' uid='1417' user='maning' visible='true' version='3' changeset='15915673' lat='14.6333596' lon='121.0991603' />
+  <node id='734864192' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='4' changeset='103418704' lat='14.633279' lon='121.0985891' />
+  <node id='734864219' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='3' changeset='103418704' lat='14.6325279' lon='121.0986583' />
+  <node id='734864231' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='5' changeset='103418704' lat='14.6327192' lon='121.0986477' />
+  <node id='734864244' timestamp='2011-05-26T04:12:12Z' uid='1417' user='maning' visible='true' version='4' changeset='8250069' lat='14.6328121' lon='121.0992499' />
+  <node id='734864262' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='3' changeset='103418704' lat='14.633616' lon='121.098548' />
+  <node id='974309743' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='5' changeset='97094328' lat='14.6322534' lon='121.094988' />
+  <node id='1173893151' timestamp='2011-02-26T04:44:31Z' uid='1417' user='maning' visible='true' version='1' changeset='7396476' lat='14.6321383' lon='121.0958782' />
+  <node id='1173893153' timestamp='2011-02-26T04:44:31Z' uid='1417' user='maning' visible='true' version='1' changeset='7396476' lat='14.6323199' lon='121.0967371' />
+  <node id='1173893155' timestamp='2012-10-01T02:02:42Z' uid='1417' user='maning' visible='true' version='2' changeset='13317123' lat='14.6320726' lon='121.0956088' />
+  <node id='1298205872' timestamp='2011-07-14T01:52:21Z' uid='1417' user='maning' visible='true' version='2' changeset='8718019' lat='14.6301626' lon='121.1011565' />
+  <node id='1298205876' timestamp='2011-07-14T01:52:21Z' uid='1417' user='maning' visible='true' version='2' changeset='8718019' lat='14.6304255' lon='121.101125' />
+  <node id='1300400314' timestamp='2013-04-30T02:14:43Z' uid='1417' user='maning' visible='true' version='2' changeset='15915673' lat='14.6336345' lon='121.0989961' />
+  <node id='1300400318' timestamp='2011-05-26T04:12:08Z' uid='1417' user='maning' visible='true' version='1' changeset='8250069' lat='14.6336705' lon='121.0992768' />
+  <node id='1300400322' timestamp='2013-04-30T02:14:43Z' uid='1417' user='maning' visible='true' version='2' changeset='15915673' lat='14.6330122' lon='121.0987347' />
+  <node id='1300400339' timestamp='2013-04-30T02:14:44Z' uid='1417' user='maning' visible='true' version='2' changeset='15915673' lat='14.6330764' lon='121.0991517' />
+  <node id='1300400346' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='2' changeset='103418704' lat='14.6329862' lon='121.0986221' />
+  <node id='1300400348' timestamp='2011-05-26T04:12:10Z' uid='1417' user='maning' visible='true' version='1' changeset='8250069' lat='14.6336144' lon='121.0988388' />
+  <node id='1329182003' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='4' changeset='94042435' lat='14.6340939' lon='121.0947299' />
+  <node id='1940952554' timestamp='2020-11-18T01:19:20Z' uid='12191637' user='Jarod Shaffer' visible='true' version='3' changeset='94317074' lat='14.6318579' lon='121.0950162' />
+  <node id='1940952555' timestamp='2021-01-07T08:31:53Z' uid='11830702' user='ADMarin12' visible='true' version='3' changeset='97094328' lat='14.6319844' lon='121.0950174' />
+  <node id='1989284154' timestamp='2020-04-29T04:30:04Z' uid='1041828' user='GOwin' visible='true' version='2' changeset='84304677' lat='14.6332936' lon='121.0958476' />
+  <node id='1989284155' timestamp='2020-11-13T07:37:38Z' uid='11956425' user='GenDavid' visible='true' version='3' changeset='94042435' lat='14.633556' lon='121.0946688' />
+  <node id='2286277132' timestamp='2013-04-30T02:14:41Z' uid='1417' user='maning' visible='true' version='1' changeset='15915673' lat='14.6333735' lon='121.0988724' />
+  <node id='2286277134' timestamp='2013-04-30T02:14:41Z' uid='1417' user='maning' visible='true' version='1' changeset='15915673' lat='14.6333937' lon='121.0990294' />
+  <node id='2286277139' timestamp='2013-04-30T02:14:42Z' uid='1417' user='maning' visible='true' version='1' changeset='15915673' lat='14.6334304' lon='121.0993142' />
+  <node id='2286277141' timestamp='2013-04-30T02:14:42Z' uid='1417' user='maning' visible='true' version='1' changeset='15915673' lat='14.6336493' lon='121.0991114' />
+  <node id='2620961275' timestamp='2022-10-10T01:53:11Z' uid='16643939' user='feathered_ouul' visible='true' version='2' changeset='127274928' lat='14.6348231' lon='121.0969321' />
+  <node id='2657909179' timestamp='2014-02-06T18:51:50Z' uid='1875199' user='Chitetskoy' visible='true' version='1' changeset='20417274' lat='14.6321571' lon='121.0940138' />
+  <node id='2657909233' timestamp='2014-02-06T18:51:51Z' uid='1875199' user='Chitetskoy' visible='true' version='1' changeset='20417274' lat='14.6299067' lon='121.0945329' />
+  <node id='2661562766' timestamp='2018-04-29T03:42:17Z' uid='1041828' user='GOwin' visible='true' version='2' changeset='58517628' lat='14.6334174' lon='121.0965168' />
+  <node id='2832893908' timestamp='2014-05-03T02:45:16Z' uid='1417' user='maning' visible='true' version='1' changeset='22096516' lat='14.6310222' lon='121.0947882' />
+  <node id='2837156735' timestamp='2014-05-05T04:38:35Z' uid='1417' user='maning' visible='true' version='1' changeset='22139544' lat='14.6314333' lon='121.0972657' />
+  <node id='4241456390' timestamp='2020-11-18T03:23:25Z' uid='11956425' user='GenDavid' visible='true' version='2' changeset='94321231' lat='14.6311517' lon='121.1010448' />
+  <node id='6637273510' timestamp='2019-07-22T12:14:10Z' uid='10143761' user='grabtaxi13' visible='true' version='1' changeset='72512665' lat='14.6333852' lon='121.0993234' />
+  <node id='6637273511' timestamp='2019-07-22T12:14:10Z' uid='10143761' user='grabtaxi13' visible='true' version='1' changeset='72512665' lat='14.6333419' lon='121.0990359' />
+  <node id='6637273512' timestamp='2019-07-22T12:14:10Z' uid='10143761' user='grabtaxi13' visible='true' version='1' changeset='72512665' lat='14.6333197' lon='121.09888' />
+  <node id='6857360687' timestamp='2019-10-07T11:17:46Z' uid='1417' user='maning' visible='true' version='1' changeset='75370867' lat='14.6321914' lon='121.0958665' />
+  <node id='6857360688' timestamp='2019-10-07T11:17:46Z' uid='1417' user='maning' visible='true' version='1' changeset='75370867' lat='14.6322161' lon='121.0959' />
+  <node id='6857360689' timestamp='2019-10-07T11:17:46Z' uid='1417' user='maning' visible='true' version='1' changeset='75370867' lat='14.6322432' lon='121.0960892' />
+  <node id='7461523128' timestamp='2020-04-29T04:30:04Z' uid='1041828' user='GOwin' visible='true' version='1' changeset='84304677' lat='14.6341215' lon='121.0951801' />
+  <node id='8310082187' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97273930' lat='14.6333727' lon='121.0992438' />
+  <node id='8310082188' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97273930' lat='14.6336608' lon='121.0992008' />
+  <node id='8315147526' timestamp='2021-01-13T04:49:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='2' changeset='97408671' lat='14.6327027' lon='121.0992345' />
+  <node id='8315147527' timestamp='2021-01-13T04:49:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='2' changeset='97408671' lat='14.6328071' lon='121.0992198' />
+  <node id='8317447008' timestamp='2021-01-13T04:49:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97408671' lat='14.6330663' lon='121.0991919' />
+  <node id='8317447009' timestamp='2021-01-13T04:49:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97408671' lat='14.6331165' lon='121.0991865' />
+  <node id='8373768277' timestamp='2021-01-29T01:58:56Z' uid='615320' user='Dewi Sulistioningrum' visible='true' version='1' changeset='98327302' lat='14.6308555' lon='121.095299' />
+  <node id='8373768278' timestamp='2021-01-29T01:58:56Z' uid='615320' user='Dewi Sulistioningrum' visible='true' version='1' changeset='98327302' lat='14.6309639' lon='121.0952581' />
+  <node id='9753835729' timestamp='2022-05-19T08:08:53Z' uid='1041828' user='GOwin' visible='true' version='1' changeset='121181085' lat='14.6310731' lon='121.0962246'>
+    <tag k='barrier' v='kerb' />
+    <tag k='kerb' v='lowered' />
+    <tag k='mapillary' v='501788207840529' />
+    <tag k='source' v='extrapolation' />
+  </node>
+  <node id='9863639873' timestamp='2022-07-03T10:53:09Z' uid='16435974' user='Col3Morales' visible='true' version='1' changeset='123146646' lat='14.6355052' lon='121.0935286' />
+  <node id='9970045567' timestamp='2022-08-23T12:35:59Z' uid='15750521' user='WadiWishkaDam' visible='true' version='2' changeset='125269787' lat='14.632266' lon='121.0952776' />
+  <way id='106643' visible='true'>
+    <nd ref='139384' />
+    <nd ref='139383' />
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='106644' visible='true'>
+    <nd ref='32614452' />
+    <nd ref='274452695' />
+    <nd ref='318616767' />
+    <nd ref='274452701' />
+    <nd ref='318616765' />
+    <nd ref='331119836' />
+    <nd ref='318616719' />
+    <nd ref='318616724' />
+    <nd ref='26546486' />
+    <tag k='bicycle' v='yes' />
+    <tag k='cycleway' v='shared' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='layer' v='1' />
+    <tag k='lcn' v='yes' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='106645' visible='true'>
+    <nd ref='139357' />
+    <nd ref='139356' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106646' visible='true'>
+    <nd ref='139359' />
+    <nd ref='139358' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106647' visible='true'>
+    <nd ref='139361' />
+    <nd ref='139360' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106648' visible='true'>
+    <nd ref='139392' />
+    <nd ref='139362' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106649' visible='true'>
+    <nd ref='139364' />
+    <nd ref='139363' />
+    <tag k='highway' v='crossing' />
+  </way>
+  <way id='106650' visible='true'>
+    <nd ref='139367' />
+    <nd ref='139366' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106651' visible='true'>
+    <nd ref='139419' />
+    <nd ref='139370' />
+    <tag k='cycleway:left' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Sparrow' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='106652' visible='true'>
+    <nd ref='139369' />
+    <nd ref='139418' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Eagle' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='106653' visible='true'>
+    <nd ref='139417' />
+    <nd ref='4241456390' />
+    <nd ref='1298205876' />
+    <nd ref='1298205872' />
+    <nd ref='139368' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Flamingo Street' />
+  </way>
+  <way id='106654' visible='true'>
+    <nd ref='139380' />
+    <nd ref='139379' />
+    <nd ref='139378' />
+    <nd ref='139377' />
+    <nd ref='139376' />
+    <nd ref='32210251' />
+    <nd ref='139375' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106655' visible='true'>
+    <nd ref='139381' />
+    <nd ref='32614471' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106656' visible='true'>
+    <nd ref='139395' />
+    <nd ref='33450210' />
+    <tag k='highway' v='footway' />
+    <tag k='motorcar' v='no' />
+    <tag k='name' v='S. De la Paz' />
+  </way>
+  <way id='106657' visible='true'>
+    <nd ref='139401' />
+    <nd ref='139367' />
+    <nd ref='139400' />
+    <nd ref='139357' />
+    <nd ref='139399' />
+    <nd ref='139398' />
+    <nd ref='139397' />
+    <nd ref='139396' />
+    <nd ref='139364' />
+    <nd ref='139395' />
+    <nd ref='139394' />
+    <nd ref='139393' />
+    <nd ref='139382' />
+    <nd ref='139392' />
+    <nd ref='139375' />
+    <nd ref='139391' />
+    <nd ref='139390' />
+    <nd ref='139361' />
+    <nd ref='139389' />
+    <nd ref='139388' />
+    <nd ref='139387' />
+    <nd ref='139386' />
+    <nd ref='139385' />
+    <nd ref='139359' />
+    <nd ref='139384' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106658' visible='true'>
+    <nd ref='139403' />
+    <nd ref='139402' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106659' visible='true'>
+    <nd ref='139405' />
+    <nd ref='30760130' />
+    <tag k='cycleway:right' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='E. Dela Paz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='106660' visible='true'>
+    <nd ref='139542' />
+    <nd ref='33218511' />
+    <nd ref='2837156735' />
+    <nd ref='139550' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Florencio Paz' />
+    <tag k='surface' v='concrete' />
+  </way>
+  <way id='106661' visible='true'>
+    <nd ref='139407' />
+    <nd ref='139406' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106662' visible='true'>
+    <nd ref='139409' />
+    <nd ref='139408' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106663' visible='true'>
+    <nd ref='139522' />
+    <nd ref='139410' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106664' visible='true'>
+    <nd ref='139414' />
+    <nd ref='139413' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106665' visible='true'>
+    <nd ref='139416' />
+    <nd ref='139415' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106666' visible='true'>
+    <nd ref='139421' />
+    <nd ref='139420' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106667' visible='true'>
+    <nd ref='139428' />
+    <nd ref='139371' />
+    <nd ref='139372' />
+    <nd ref='139368' />
+    <nd ref='139369' />
+    <nd ref='139370' />
+    <nd ref='139373' />
+    <nd ref='139404' />
+    <nd ref='139402' />
+    <nd ref='139421' />
+    <nd ref='139431' />
+    <nd ref='139415' />
+    <nd ref='139413' />
+    <nd ref='139412' />
+    <nd ref='139410' />
+    <nd ref='139419' />
+    <nd ref='139408' />
+    <nd ref='139418' />
+    <nd ref='139417' />
+    <nd ref='139430' />
+    <nd ref='139406' />
+    <nd ref='139429' />
+    <nd ref='139428' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106668' visible='true'>
+    <nd ref='139432' />
+    <nd ref='32210237' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106669' visible='true'>
+    <nd ref='32614481' />
+    <nd ref='32614482' />
+    <nd ref='32210237' />
+    <nd ref='139433' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106670' visible='true'>
+    <nd ref='139435' />
+    <nd ref='32614481' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106671' visible='true'>
+    <nd ref='32614471' />
+    <nd ref='139438' />
+    <nd ref='139437' />
+    <nd ref='139436' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106672' visible='true'>
+    <nd ref='139473' />
+    <nd ref='139455' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106673' visible='true'>
+    <nd ref='139457' />
+    <nd ref='139456' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106674' visible='true'>
+    <nd ref='139516' />
+    <nd ref='139374' />
+    <nd ref='139451' />
+    <nd ref='139452' />
+    <nd ref='139453' />
+    <nd ref='139407' />
+    <nd ref='139454' />
+    <nd ref='139460' />
+    <nd ref='139409' />
+    <nd ref='139459' />
+    <nd ref='139458' />
+    <nd ref='139455' />
+    <nd ref='139462' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106675' visible='true'>
+    <nd ref='139461' />
+    <nd ref='139462' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106676' visible='true'>
+    <nd ref='139462' />
+    <nd ref='139464' />
+    <nd ref='139456' />
+    <nd ref='139463' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106677' visible='true'>
+    <nd ref='139466' />
+    <nd ref='32621960' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Lark' />
+    <tag k='oneway' v='Yes' />
+  </way>
+  <way id='106678' visible='true'>
+    <nd ref='139472' />
+    <nd ref='139467' />
+    <nd ref='139471' />
+    <nd ref='139470' />
+    <nd ref='139457' />
+    <nd ref='139469' />
+    <nd ref='139465' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106679' visible='true'>
+    <nd ref='139517' />
+    <nd ref='139466' />
+    <nd ref='139472' />
+    <tag k='highway' v='pedestrian' />
+  </way>
+  <way id='106680' visible='true'>
+    <nd ref='139468' />
+    <nd ref='139467' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106681' visible='true'>
+    <nd ref='139475' />
+    <nd ref='139474' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106682' visible='true'>
+    <nd ref='139477' />
+    <nd ref='139476' />
+    <tag k='crossing' v='marked' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106683' visible='true'>
+    <nd ref='139479' />
+    <nd ref='139478' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106684' visible='true'>
+    <nd ref='139481' />
+    <nd ref='139480' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106685' visible='true'>
+    <nd ref='139483' />
+    <nd ref='139482' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106686' visible='true'>
+    <nd ref='139485' />
+    <nd ref='139484' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106687' visible='true'>
+    <nd ref='139487' />
+    <nd ref='139486' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106688' visible='true'>
+    <nd ref='139489' />
+    <nd ref='139488' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106689' visible='true'>
+    <nd ref='139491' />
+    <nd ref='139490' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106690' visible='true'>
+    <nd ref='139495' />
+    <nd ref='139494' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106691' visible='true'>
+    <nd ref='139497' />
+    <nd ref='1989284154' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106692' visible='true'>
+    <nd ref='139502' />
+    <nd ref='139501' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106693' visible='true'>
+    <nd ref='139532' />
+    <nd ref='139518' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106694' visible='true'>
+    <nd ref='139513' />
+    <nd ref='139525' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106695' visible='true'>
+    <nd ref='139516' />
+    <nd ref='139515' />
+    <nd ref='139514' />
+    <nd ref='139518' />
+    <nd ref='139517' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106696' visible='true'>
+    <nd ref='139520' />
+    <nd ref='139519' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106697' visible='true'>
+    <nd ref='139528' />
+    <nd ref='139533' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106698' visible='true'>
+    <nd ref='139535' />
+    <nd ref='139478' />
+    <nd ref='139476' />
+    <nd ref='139474' />
+    <nd ref='139534' />
+    <nd ref='139533' />
+    <nd ref='139532' />
+    <nd ref='139531' />
+    <nd ref='139468' />
+    <nd ref='139530' />
+    <nd ref='139513' />
+    <nd ref='139529' />
+    <nd ref='139520' />
+    <nd ref='139535' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106699' visible='true'>
+    <nd ref='139498' />
+    <nd ref='139439' />
+    <nd ref='139440' />
+    <nd ref='139362' />
+    <nd ref='139381' />
+    <nd ref='139441' />
+    <nd ref='139442' />
+    <nd ref='139443' />
+    <nd ref='139444' />
+    <nd ref='139360' />
+    <nd ref='139445' />
+    <nd ref='139446' />
+    <nd ref='139447' />
+    <nd ref='139448' />
+    <nd ref='139449' />
+    <nd ref='139358' />
+    <nd ref='139450' />
+    <nd ref='139436' />
+    <nd ref='139435' />
+    <nd ref='139434' />
+    <nd ref='139432' />
+    <nd ref='139526' />
+    <nd ref='139527' />
+    <nd ref='139528' />
+    <nd ref='139433' />
+    <nd ref='139475' />
+    <nd ref='139536' />
+    <nd ref='139477' />
+    <nd ref='139479' />
+    <nd ref='139562' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106700' visible='true'>
+    <nd ref='139538' />
+    <nd ref='139537' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106701' visible='true'>
+    <nd ref='139540' />
+    <nd ref='139539' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106702' visible='true'>
+    <nd ref='139542' />
+    <nd ref='139405' />
+    <nd ref='139422' />
+    <nd ref='139366' />
+    <nd ref='139423' />
+    <nd ref='139356' />
+    <nd ref='139424' />
+    <nd ref='139365' />
+    <nd ref='139425' />
+    <nd ref='139426' />
+    <nd ref='139427' />
+    <nd ref='9970045567' />
+    <nd ref='139363' />
+    <nd ref='139506' />
+    <nd ref='139484' />
+    <nd ref='139505' />
+    <nd ref='139494' />
+    <nd ref='139488' />
+    <nd ref='139504' />
+    <nd ref='139492' />
+    <nd ref='139486' />
+    <nd ref='139490' />
+    <nd ref='139503' />
+    <nd ref='139501' />
+    <nd ref='139550' />
+    <nd ref='139537' />
+    <nd ref='139549' />
+    <nd ref='139548' />
+    <nd ref='139540' />
+    <nd ref='139547' />
+    <nd ref='139546' />
+    <nd ref='139483' />
+    <nd ref='139420' />
+    <nd ref='139403' />
+    <nd ref='139545' />
+    <nd ref='139544' />
+    <nd ref='139543' />
+    <nd ref='139542' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106703' visible='true'>
+    <nd ref='139552' />
+    <nd ref='32614497' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='106704' visible='true'>
+    <nd ref='734864219' />
+    <nd ref='139507' />
+    <nd ref='139411' />
+    <nd ref='139522' />
+    <nd ref='139523' />
+    <nd ref='139508' />
+    <nd ref='139509' />
+    <nd ref='139510' />
+    <nd ref='139473' />
+    <nd ref='139511' />
+    <nd ref='139512' />
+    <nd ref='139461' />
+    <nd ref='139524' />
+    <nd ref='139525' />
+    <nd ref='139521' />
+    <nd ref='139519' />
+    <nd ref='139557' />
+    <nd ref='139480' />
+    <nd ref='139556' />
+    <nd ref='139555' />
+    <nd ref='139554' />
+    <nd ref='139553' />
+    <nd ref='139552' />
+    <nd ref='139482' />
+    <nd ref='139551' />
+    <nd ref='139416' />
+    <nd ref='139414' />
+    <nd ref='734864219' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='106705' visible='true'>
+    <nd ref='139562' />
+    <nd ref='139481' />
+    <nd ref='139561' />
+    <nd ref='139560' />
+    <nd ref='139539' />
+    <nd ref='139559' />
+    <nd ref='139558' />
+    <nd ref='139538' />
+    <nd ref='139502' />
+    <nd ref='139541' />
+    <nd ref='139491' />
+    <nd ref='139487' />
+    <nd ref='139493' />
+    <nd ref='139496' />
+    <nd ref='139497' />
+    <nd ref='139489' />
+    <nd ref='139495' />
+    <nd ref='139500' />
+    <nd ref='139499' />
+    <nd ref='139485' />
+    <nd ref='139498' />
+    <tag k='footway' v='sidewalk' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='4357052' timestamp='2022-06-27T16:56:43Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='9' changeset='122919320'>
+    <nd ref='47320124' />
+    <nd ref='272592651' />
+    <nd ref='8373768277' />
+    <nd ref='8373768278' />
+    <nd ref='174743864' />
+    <nd ref='26546417' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='C. Cruz' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='4392201' timestamp='2019-01-18T13:20:10Z' uid='1417' user='maning' visible='true' version='7' changeset='66426792'>
+    <nd ref='26831976' />
+    <nd ref='734864192' />
+    <nd ref='734864262' />
+    <nd ref='139521' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='City Hall Road' />
+  </way>
+  <way id='4794422' timestamp='2022-06-17T22:10:13Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='8' changeset='122525909'>
+    <nd ref='33218511' />
+    <nd ref='30760130' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Moy Street' />
+  </way>
+  <way id='4794425' timestamp='2022-06-07T19:30:21Z' uid='14434812' user='martymcfly14' visible='true' version='12' changeset='122086895'>
+    <nd ref='30759955' />
+    <nd ref='390130908' />
+    <nd ref='1173893155' />
+    <nd ref='139505' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='M. Cruz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4864492' timestamp='2022-10-19T09:07:44Z' uid='14309561' user='kmpoppe (@ Mapillary Update)' visible='true' version='10' changeset='127768709'>
+    <nd ref='32614481' />
+    <nd ref='32614477' />
+    <nd ref='260895330' />
+    <nd ref='32614465' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='mapillary' v='152320726764573' />
+    <tag k='name' v='Padre Burgos' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4947856' timestamp='2022-10-15T10:57:32Z' uid='14309561' user='kmpoppe (@ Mapillary Update)' visible='true' version='11' changeset='127565033'>
+    <nd ref='26546417' />
+    <nd ref='1940952554' />
+    <nd ref='32614449' />
+    <nd ref='1940952555' />
+    <nd ref='303915875' />
+    <nd ref='974309743' />
+    <nd ref='303915878' />
+    <nd ref='32614448' />
+    <nd ref='33450210' />
+    <nd ref='32614447' />
+    <nd ref='1989284155' />
+    <nd ref='32614446' />
+    <nd ref='1329182003' />
+    <nd ref='32210251' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='mapillary' v='466314977989834' />
+    <tag k='name' v='C. Cruz' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4947857' timestamp='2014-02-06T18:51:52Z' uid='1875199' user='Chitetskoy' visible='true' version='5' changeset='20417274'>
+    <nd ref='139400' />
+    <nd ref='47320124' />
+    <nd ref='32614451' />
+    <nd ref='2657909233' />
+    <nd ref='32614452' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Deguangco' />
+  </way>
+  <way id='4947860' timestamp='2022-06-07T19:30:21Z' uid='14434812' user='martymcfly14' visible='true' version='12' changeset='122086895'>
+    <nd ref='32614464' />
+    <nd ref='1989284154' />
+    <nd ref='32614465' />
+    <nd ref='2661562766' />
+    <tag k='arcade:right' v='open' />
+    <tag k='covered' v='arcade' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Venciong Street' />
+    <tag k='not:name' v='Captain Venciong' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:name' v='extrapolated from https://osm.org/note/3105533' />
+  </way>
+  <way id='4947861' timestamp='2022-12-20T11:26:32Z' uid='18039208' user='Sandrae4929' visible='true' version='9' changeset='130286123'>
+    <nd ref='32614471' />
+    <nd ref='32614477' />
+    <nd ref='32614476' />
+    <nd ref='32210236' />
+    <nd ref='139536' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='P. de la Paz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='short_name' v='P. Paz Street' />
+  </way>
+  <way id='4947864' timestamp='2022-10-19T18:55:28Z' uid='14309561' user='kmpoppe (@ Mapillary Update)' visible='true' version='14' changeset='127801348'>
+    <nd ref='139541' />
+    <nd ref='2661562766' />
+    <nd ref='32614476' />
+    <nd ref='32614482' />
+    <nd ref='139434' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='mapillary' v='935439633952574' />
+    <tag k='name' v='E. Dela Paz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='4947867' timestamp='2022-06-07T23:40:53Z' uid='14434812' user='martymcfly14' visible='true' version='8' changeset='122093100'>
+    <nd ref='139460' />
+    <nd ref='139463' />
+    <nd ref='32614491' />
+    <nd ref='139465' />
+    <nd ref='32621960' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Flamingo' />
+  </way>
+  <way id='4947869' timestamp='2021-04-22T14:09:49Z' uid='10529581' user='HikkaduwaBeach' visible='true' version='8' changeset='103418704'>
+    <nd ref='734864219' />
+    <nd ref='734864231' />
+    <nd ref='32614497' />
+    <nd ref='1300400346' />
+    <nd ref='26831976' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='City Hall Road' />
+  </way>
+  <way id='4947901' timestamp='2022-05-19T08:08:53Z' uid='1041828' user='GOwin' visible='true' version='7' changeset='121181085'>
+    <nd ref='139504' />
+    <nd ref='6857360689' />
+    <nd ref='9753835729' />
+    <nd ref='33472284' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Antonio P. Santos' />
+  </way>
+  <way id='4967219' timestamp='2014-11-03T06:47:10Z' uid='1417' user='maning' visible='true' version='5' changeset='26519098'>
+    <nd ref='26831976' />
+    <nd ref='139554' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='16860033' timestamp='2022-05-19T08:08:53Z' uid='1041828' user='GOwin' visible='true' version='10' changeset='121181085'>
+    <nd ref='139398' />
+    <nd ref='272592071' />
+    <nd ref='174743864' />
+    <tag k='alt_name' v='Dancel' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Celso Mendoza' />
+  </way>
+  <way id='27672578' timestamp='2020-05-13T13:12:09Z' uid='1417' user='maning' visible='true' version='4' changeset='85147344'>
+    <nd ref='303915850' />
+    <nd ref='303915859' />
+    <nd ref='303915869' />
+    <nd ref='32614449' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='27672580' timestamp='2020-05-13T13:12:09Z' uid='1417' user='maning' visible='true' version='3' changeset='85147344'>
+    <nd ref='303915878' />
+    <nd ref='303915879' />
+    <nd ref='303915889' />
+    <nd ref='303915880' />
+    <nd ref='303915882' />
+    <nd ref='303915883' />
+    <nd ref='303915885' />
+    <tag k='FIXME' v='verify this footway' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='27672582' timestamp='2020-05-13T13:12:09Z' uid='1417' user='maning' visible='true' version='2' changeset='85147344'>
+    <nd ref='303915889' />
+    <nd ref='303915890' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='27672584' timestamp='2022-05-19T08:08:53Z' uid='1041828' user='GOwin' visible='true' version='7' changeset='121181085'>
+    <nd ref='174743864' />
+    <nd ref='174744818' />
+    <nd ref='2832893908' />
+    <nd ref='174744819' />
+    <nd ref='331119835' />
+    <nd ref='331119836' />
+    <tag k='alt_name' v='Dancel' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Celso Mendoza' />
+    <tag k='new_name' v='Capt. Celso Mendoza' />
+  </way>
+  <way id='27672586' timestamp='2015-08-18T13:22:56Z' uid='1417' user='maning' visible='true' version='4' changeset='33415260'>
+    <nd ref='33450210' />
+    <nd ref='303915890' />
+    <nd ref='33450209' />
+    <nd ref='303915887' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='S. De la Paz' />
+  </way>
+  <way id='53056344' timestamp='2022-07-03T10:53:09Z' uid='16435974' user='Col3Morales' visible='true' version='7' changeset='123146646'>
+    <nd ref='671855714' />
+    <nd ref='9863639873' />
+    <nd ref='317496172' />
+    <nd ref='269143961' />
+    <nd ref='139380' />
+    <nd ref='26546492' />
+    <nd ref='671855683' />
+    <nd ref='315202654' />
+    <nd ref='303915887' />
+    <nd ref='303915885' />
+    <nd ref='318616702' />
+    <nd ref='2657909179' />
+    <nd ref='318616692' />
+    <nd ref='318616711' />
+    <nd ref='303915850' />
+    <nd ref='26546486' />
+    <tag k='bicycle' v='yes' />
+    <tag k='cycleway' v='shared' />
+    <tag k='highway' v='pedestrian' />
+    <tag k='layer' v='1' />
+    <tag k='lcn' v='yes' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='59260193' timestamp='2021-01-15T07:29:14Z' uid='10811142' user='HamakuaCoast' visible='true' version='5' changeset='97539217'>
+    <nd ref='734864148' />
+    <nd ref='6637273511' />
+    <nd ref='6637273512' />
+    <nd ref='734864192' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='59260195' timestamp='2021-01-15T10:41:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='3' changeset='97552809'>
+    <nd ref='8315147527' />
+    <nd ref='734864244' />
+    <nd ref='139509' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='83669491' timestamp='2022-06-27T16:54:38Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='3' changeset='122919244'>
+    <nd ref='974309743' />
+    <nd ref='139396' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='S. Inez Street' />
+  </way>
+  <way id='101673371' timestamp='2019-10-07T11:17:46Z' uid='1417' user='maning' visible='true' version='2' changeset='75370867'>
+    <nd ref='6857360689' />
+    <nd ref='6857360688' />
+    <nd ref='6857360687' />
+    <nd ref='1173893151' />
+    <nd ref='1173893155' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='114916640' timestamp='2019-07-22T12:14:10Z' uid='10143761' user='grabtaxi13' visible='true' version='3' changeset='72512665'>
+    <nd ref='1300400314' />
+    <nd ref='2286277134' />
+    <nd ref='6637273511' />
+    <tag k='highway' v='footway' />
+    <tag k='service' v='parking_aisle' />
+  </way>
+  <way id='114916641' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='4' changeset='97273930'>
+    <nd ref='1300400348' />
+    <nd ref='2286277132' />
+    <nd ref='6637273512' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='114916642' timestamp='2021-01-15T10:41:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='5' changeset='97552809'>
+    <nd ref='139512' />
+    <nd ref='6637273510' />
+    <nd ref='8310082187' />
+    <nd ref='734864148' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='114916643' timestamp='2022-08-23T12:35:59Z' uid='15750521' user='WadiWishkaDam' visible='true' version='3' changeset='125269787'>
+    <nd ref='1300400346' />
+    <nd ref='1300400322' />
+    <tag k='access' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+  </way>
+  <way id='121189390' timestamp='2022-06-07T23:40:53Z' uid='14434812' user='martymcfly14' visible='true' version='5' changeset='122093100'>
+    <nd ref='32621960' />
+    <nd ref='139374' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Lark' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='124346531' timestamp='2022-10-10T01:53:11Z' uid='16643939' user='feathered_ouul' visible='true' version='2' changeset='127274928'>
+    <nd ref='32210237' />
+    <nd ref='2620961275' />
+    <nd ref='32210236' />
+    <nd ref='32210235' />
+    <nd ref='139558' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='E. Jacinto' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='183673106' timestamp='2020-05-13T13:12:09Z' uid='1417' user='maning' visible='true' version='2' changeset='85147344'>
+    <nd ref='1940952554' />
+    <nd ref='139397' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='219477998' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='3' changeset='97273930'>
+    <nd ref='6637273510' />
+    <nd ref='2286277139' />
+    <nd ref='1300400318' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='219477999' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='2' changeset='97273930'>
+    <nd ref='1300400318' />
+    <nd ref='8310082188' />
+    <nd ref='2286277141' />
+    <nd ref='1300400314' />
+    <nd ref='1300400348' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='260637857' timestamp='2022-12-20T11:26:32Z' uid='18039208' user='Sandrae4929' visible='true' version='5' changeset='130286123'>
+    <nd ref='2661562766' />
+    <nd ref='32210235' />
+    <nd ref='139562' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='Kapitan Venciong Street' />
+    <tag k='not:name' v='Captain Venciong' />
+    <tag k='source:name' v='extrapolated from https://osm.org/note/3105533' />
+  </way>
+  <way id='732313017' timestamp='2022-07-19T13:42:10Z' uid='1778799' user='SomeoneElse_Revert' visible='true' version='6' changeset='123808644'>
+    <nd ref='30760130' />
+    <nd ref='260895327' />
+    <nd ref='174743416' />
+    <nd ref='1173893153' />
+    <nd ref='139503' />
+    <tag k='cycleway:right' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='E. Dela Paz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='732313018' timestamp='2022-06-17T22:10:13Z' uid='9476874' user='Buddy-the-Elf' visible='true' version='4' changeset='122525909'>
+    <nd ref='30760130' />
+    <nd ref='315202652' />
+    <nd ref='32210000' />
+    <nd ref='268443436' />
+    <nd ref='33472284' />
+    <nd ref='30759955' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Kapitan Moy Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='732313019' timestamp='2022-10-19T09:06:32Z' uid='14309561' user='kmpoppe (@ Mapillary Update)' visible='true' version='6' changeset='127768605'>
+    <nd ref='30759955' />
+    <nd ref='268443438' />
+    <nd ref='139365' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='mapillary' v='459450341802211' />
+    <tag k='name' v='Kapitan Moy Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='797778033' timestamp='2022-06-21T15:08:46Z' uid='7674729' user='UncoolGuyJake' visible='true' version='2' changeset='122673349'>
+    <nd ref='7461523128' />
+    <nd ref='32614471' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='name' v='M. Cruz Street' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='797778034' timestamp='2022-06-07T19:30:21Z' uid='14434812' user='martymcfly14' visible='true' version='3' changeset='122086895'>
+    <nd ref='139500' />
+    <nd ref='32614464' />
+    <nd ref='7461523128' />
+    <tag k='arcade:left' v='open' />
+    <tag k='arcade:right' v='open' />
+    <tag k='covered' v='arcade' />
+    <tag k='highway' v='footway' />
+    <tag k='lanes' v='1' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='M. Cruz Street' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='894103439' timestamp='2021-01-11T04:05:58Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97273930'>
+    <nd ref='8310082188' />
+    <nd ref='8310082187' />
+    <tag k='highway' v='footway' />
+    <tag k='service' v='parking_aisle' />
+  </way>
+  <way id='894589876' timestamp='2022-06-27T18:17:42Z' uid='10028118' user='InnerPace' visible='true' version='2' changeset='122922583'>
+    <nd ref='8315147527' />
+    <nd ref='8315147526' />
+    <nd ref='139508' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='894799920' timestamp='2021-01-15T07:29:14Z' uid='10811142' user='HamakuaCoast' visible='true' version='2' changeset='97539217'>
+    <nd ref='734864148' />
+    <nd ref='8317447009' />
+    <nd ref='8317447008' />
+    <nd ref='8315147527' />
+    <tag k='highway' v='footway' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='895445974' timestamp='2021-01-15T07:29:14Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97539217'>
+    <nd ref='8315147526' />
+    <nd ref='139507' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='895504888' timestamp='2021-01-15T10:41:08Z' uid='10811142' user='HamakuaCoast' visible='true' version='1' changeset='97552809'>
+    <nd ref='734864231' />
+    <nd ref='8315147527' />
+    <tag k='highway' v='footway' />
+  </way>
+  <way id='1067705790' timestamp='2022-10-19T09:07:44Z' uid='14309561' user='kmpoppe (@ Mapillary Update)' visible='true' version='2' changeset='127768709'>
+    <nd ref='32614465' />
+    <nd ref='139496' />
+    <tag k='cycleway' v='lane' />
+    <tag k='highway' v='footway' />
+    <tag k='mapillary' v='152320726764573' />
+    <tag k='motorcar' v='no' />
+    <tag k='name' v='Padre Burgos' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='1088457808' timestamp='2022-08-23T12:35:59Z' uid='15750521' user='WadiWishkaDam' visible='true' version='1' changeset='125269787'>
+    <nd ref='1300400322' />
+    <nd ref='1300400339' />
+    <nd ref='139473' />
+    <tag k='access' v='no' />
+    <tag k='covered' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+  </way>
+</osm>
